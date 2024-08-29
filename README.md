@@ -37,4 +37,4 @@
 
 ###
 
-![snake gif](https://github.com/RafaelRLeite/numero-secreto/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/RafaelRLeite/RafaelRLeite/blob/output/github-contribution-grid-snake.svg)
